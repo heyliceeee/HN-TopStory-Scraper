@@ -21,7 +21,6 @@ for a_tag in a_tags: # for each article
     article_titles.append(title_article) # append the title to the list
     article_upvotes.append(int(upvote_article.split()[0])) # append the upvote to the list
 
-
-print(article_links)
-print(article_titles)
-print(article_upvotes)
+highest_upvote = max(article_upvotes) # find the highest upvote
+index_highest_upvote = article_upvotes.index(highest_upvote) # find the index of the highest upvote
+print(f"TITLE: {article_titles[index_highest_upvote]} | UPVOTE: {highest_upvote} | {article_links[index_highest_upvote]}")
