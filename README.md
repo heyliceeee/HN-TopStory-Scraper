@@ -1,28 +1,28 @@
 # 📰 HN TopStory Scraper
 
-Este projeto identifica o artigo mais relevante do Hacker News no momento da consulta, analisando títulos, links e respetivos upvotes. A aplicação recolhe os artigos listados na página principal, extrai as informações essenciais e determina qual deles recebeu maior destaque da comunidade.
+This project identifies the most relevant Hacker News article at the moment of the request by analyzing titles, links, and their respective upvotes. The application collects the articles listed on the homepage, extracts the essential information, and determines which one received the most attention from the community.
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Purpose
 
-Fornecer uma forma simples e automática de descobrir qual é o artigo mais votado no Hacker News, permitindo acompanhar tendências, temas em destaque e conteúdos que estão a gerar maior interesse.
-
----
-
-## 🔍 Funcionalidades
-
-- **Recolha dos artigos** presentes na página principal do Hacker News.  
-- **Extração dos títulos**, links e contagem de upvotes.  
-- **Identificação automática** do artigo com maior número de votos.  
-- **Apresentação clara** do título, pontuação e link do artigo mais popular.
+Provide a simple and automated way to discover the most upvoted article on Hacker News, making it easy to follow trends, highlighted topics, and content generating the most interest.
 
 ---
 
-## 📌 Utilização típica
+## 🔍 Features
 
-Este projeto é útil para quem deseja:
+- **Collection of articles** from the Hacker News homepage  
+- **Extraction of titles**, links, and upvote counts  
+- **Automatic identification** of the article with the highest number of votes  
+- **Clear presentation** of the title, score, and link of the most popular article  
 
-- Monitorizar rapidamente o conteúdo mais relevante do Hacker News.  
-- Integrar dados de popularidade em dashboards, automações ou análises.  
-- Explorar tendências tecnológicas e discussões em destaque.
+---
+
+## 📌 Typical Use Cases
+
+This project is useful for anyone who wants to:
+
+- Quickly monitor the most relevant content on Hacker News  
+- Integrate popularity data into dashboards, automations, or analyses  
+- Explore trending tech topics and highlighted discussions
